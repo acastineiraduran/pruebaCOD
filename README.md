@@ -1,7 +1,7 @@
 # Edicion de Readme 28/10
-##Tarea con Markdown
-###Primera prueba
+## Tarea con Markdown
+### Primera prueba
 
-###Segunda prueba
+### Segunda prueba
 
-###Tercera prueba
+### Tercera prueba
